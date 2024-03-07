@@ -70,6 +70,8 @@ Copy code
 
 Recuerda reemplazar `https://github.com/tu-usuario/tu-repositorio.git` con la URL real de tu repositorio de GitHub. Además, adapta cualquier parte del contenido para que se ajuste mejor a las especificidades y necesidades de tu proyecto.
 
+https://file.notion.so/f/f/baa3c19d-62d3-4a1c-943f-8c987623a656/0b59a3d4-3a66-454c-aa73-04198a1417d3/Untitled.png?id=2bb7dd2a-9b53-456d-b472-2bdde14099ff&table=block&spaceId=baa3c19d-62d3-4a1c-943f-8c987623a656&expirationTimestamp=1709942400000&signature=vYUapd07XsrBclq9UzZFYW1usiIeHy7qVAYRLs4SvKA&downloadName=Untitled.png
+
 ![image](https://github.com/omarhernandezrey/40-subirArchivos/assets/103592862/44d1a6bb-dba8-4865-b135-057cd103fac6)
 
 
