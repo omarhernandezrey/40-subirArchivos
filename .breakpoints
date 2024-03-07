@@ -1,0 +1,20 @@
+{
+  "files": {
+    "README.md": [
+      {
+        "id": "458c6d37-c5ed-4c1d-adc3-328a52f18a20",
+        "line": 4,
+        "version": 1,
+        "index": 121
+      }
+    ],
+    "src/App.jsx": [
+      {
+        "id": "6e8899ad-7016-4ed5-8c03-e112b933e0ce",
+        "line": 7,
+        "version": 1,
+        "index": 235
+      }
+    ]
+  }
+}
