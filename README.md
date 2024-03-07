@@ -70,7 +70,8 @@ Copy code
 
 Recuerda reemplazar `https://github.com/tu-usuario/tu-repositorio.git` con la URL real de tu repositorio de GitHub. Además, adapta cualquier parte del contenido para que se ajuste mejor a las especificidades y necesidades de tu proyecto.
 
-![image](https://github.com/omarhernandezrey/40-subirArchivos/assets/103592862/7f40dab5-91fa-41f9-959b-bbec6ee99dc9)
+![image](https://github.com/omarhernandezrey/40-subirArchivos/assets/103592862/44d1a6bb-dba8-4865-b135-057cd103fac6)
+
 
 
 
